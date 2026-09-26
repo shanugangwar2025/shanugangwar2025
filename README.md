@@ -1,4 +1,3 @@
-
 git config --global user.name "Shanu Gangwar"<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hi,%20I'm%20shanu%20Gangwar&fontSize=36&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
@@ -283,10 +282,10 @@ width="220">
 
 Have an interesting project or idea? Let's build something together.
 
-[![GitHub](https://img.shields.io/badge/GitHub-akhilonix-00F5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/akhilonix)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-akhilonix-00F5FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/akhilonix/)
-[![Email](https://img.shields.io/badge/Email-Contact-00F5FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:akhilonix.in@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00F5FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://github.com/akhilonix)
+[![GitHub](https://img.shields.io/badge/GitHub-shanu-00F5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/shanugangwar2025)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shanu-00F5FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/shanu-gangwar-813416384/)
+[![Email](https://img.shields.io/badge/Email-Contact-00F5FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:shanugangwar7262.in@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00F5FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://github.com/shanugangwar2025)
 
 <br/><br/>
 
