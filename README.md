@@ -1,5 +1,5 @@
 git config --global user.name "Shanu Gangwar"<div align="center">
-
+border:none;
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hi,%20I'm%20shanu%20Gangwar&fontSize=36&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
