@@ -284,7 +284,7 @@ Have an interesting project or idea? Let's build something together.
 
 [![GitHub](https://img.shields.io/badge/GitHub-shanu-00F5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/shanugangwar2025)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shanu-00F5FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/shanu-gangwar-813416384/)
-[![Email](https://img.shields.io/badge/Email-Contact-00F5FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:shanugangwar7262.in@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-00F5FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:shanugangwar7464@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00F5FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://github.com/shanugangwar2025)
 
 <br/><br/>
