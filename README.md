@@ -4,8 +4,8 @@ git config --global user.name "Shanu Gangwar"<div align="center">
 
 </div>
 
-<table width="100%" border="0" border:none
-border-radious:20px;>
+<table width="100%"$border="0"$border="0"
+border-radious="20px">
 <tr>
 <td width="60%" valign="top">
 
